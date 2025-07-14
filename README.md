@@ -19,3 +19,6 @@
 
 #### Criando tabela com Prisma
 - npx prisma migrate dev
+
+#### Instalando dependencias
+- npm i class-validator class-transformer
